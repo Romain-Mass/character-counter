@@ -1,0 +1,94 @@
+body {
+	background-color: #12131a;
+	padding: 30px;
+}
+header {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+h1 {
+	color: #f2f2f7;
+	font-family: "DM Sans";
+	font-weight: 700;
+	font-size: 56px;
+	line-height: 100%;
+	letter-spacing: -1px;
+	text-align: center;
+	width: 28vw;
+	margin-left: 32vw;
+	margin-top: 10vw;
+	margin-bottom: 10vw;
+}
+#textarea {
+	width: 80vw;
+	height: 150px;
+	resize: none;
+	border: thin solid 2px #2a2b37;
+	border-radius: 6px;
+	background-color: #21222c;
+	margin-left: 7vw;
+}
+span {
+	color: #e4e4ef;
+	margin-left: -30vw;
+}
+.bloc1 {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+.boites {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+.para1 {
+	color: #e4e4ef;
+	font-family: "DM Sans";
+}
+.cara {
+	background-color: #d3a0fa;
+	width: 30%;
+	display: flex;
+	flex-direction: row;
+	height: 150px;
+}
+.word {
+	background-color: #ff9f00;
+	width: 30%;
+	display: flex;
+	flex-direction: row;
+	height: 150px;
+}
+.sentence {
+	background-color: #fe8159;
+	width: 30%;
+	display: flex;
+	flex-direction: row;
+	height: 150px;
+}
+#images {
+	margin-left: 6vw;
+	width: 43vw;
+	height: 147px;
+	overflow: hidden;
+}
+#cara {
+	color: #12131a;
+	font-size: 45px;
+}
+.para2 {
+	color: #12131a;
+	font-size: 20px;
+	margin-top: -17px;
+}
+#car1 {
+	display: flex;
+	flex-direction: row;
+}
+#blocs {
+	width: 44vw;
+	margin-left: 34px;
+}
